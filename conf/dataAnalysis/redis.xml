@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+        <!-- redis host -->
+        <redisHost>172.18.88.251</redisHost>
+        <!-- redis port -->
+        <redisPort>6379</redisPort>
+        <!-- redis timeout -->
+        <redisTimeout>2000</redisTimeout>
+
+</config>
